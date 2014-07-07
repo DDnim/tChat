@@ -1,0 +1,6 @@
+## Interface: 50400
+## Author: BN_ASIA Tushu#3421
+## Notes: ChatFrame Zoom
+## Version: 1.0
+
+tChat.lua
